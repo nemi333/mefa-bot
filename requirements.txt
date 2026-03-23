@@ -1,0 +1,5 @@
+py-cord[voice]
+google-generativeai
+SpeechRecognition
+pydub
+python-dotenv
